@@ -1,0 +1,1 @@
+export const WatchlistScreen = 'Watchlist';
